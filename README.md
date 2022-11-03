@@ -30,6 +30,7 @@ An unsupervised machine learning algorithm is used in this project to analyze a 
 
 After the data cleaning, the number of tradable cryptocurrencies reduced from 1252 to 532.
 
+<img width="745" alt="Screenshot 2022-11-03 at 12 34 04 AM" src="https://user-images.githubusercontent.com/108313440/199648244-b7892ccc-72ad-499b-a4d7-63bea4e6aee4.png">
 
 
 ### Clustering Cryptocurrencies using K-Means - Elbow Curve
@@ -53,7 +54,6 @@ Two outliers can be seen when graphing clustered cryptos by terms of total suppl
 <img width="665" alt="Screenshot 2022-11-03 at 12 02 10 AM" src="https://user-images.githubusercontent.com/108313440/199647818-9269c6fc-3f13-4583-bf52-c9dc483dd34a.png">
 
 
-## Summary
 
 
 
